@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0230_000.yaml, hash: 'sha256:5ac4bf0d9072be530f37ef728504aa3824f0dec3bae197a07108f9c07c00f58b'}
-  - {seq: 1, filename: KR6d0230_001.yaml, hash: 'sha256:4ce138e3711dd463fc214d5cd757490bcf588a337f5fcfbac5cb02288a976479'}
+  - {seq: 1, filename: KR6d0230_001.yaml, hash: 'sha256:053bcfe30ba322f36ab23c93955fc3fc142bfad0b50b3aedda2e321092606fbb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0230_001.markers.yaml, hash: 'sha256:40ab079088ea6e25d5d3f15b3b3b85dc3c421c61e3a98033f4e19917f7386200'}
+  - {seq: 0, role: markers, filename: assets/KR6d0230_000.markers.yaml, hash: 'sha256:4a8e6be161580a67a8d6c17e54d143e4ad3934773c13baf187cc47ff70cb5e4d'}
+  - {seq: 1, role: markers, filename: assets/KR6d0230_001.markers.yaml, hash: 'sha256:2a4cb069a87521e7a23a55719edc0c0f608938dba9c26f94b389f0d66229a311'}
 table_of_contents:
 - ref:
     seq: 1
@@ -96,7 +97,4 @@ table_of_contents:
   label: No. 954-E 刻三千有門頌解後序
   type: mulu
   level: 1
-hash: sha256:f30f7d12ae7f6ca8deeb482baf85b982d0d3fdf832612fc21d6fb0fbb033a968
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:352acef83b14f1a463c21283858790f57cfdfbe213e840602735f7b67bd641e8
